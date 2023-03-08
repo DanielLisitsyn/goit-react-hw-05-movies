@@ -1,0 +1,11 @@
+.castList {
+  list-style: none;
+}
+
+.castActor:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.castActorPhoto {
+  width: 200px;
+}

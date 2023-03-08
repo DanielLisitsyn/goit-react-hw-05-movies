@@ -1,0 +1,30 @@
+.movieList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.movieItem {
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  width: 250px;
+  outline: 0, 5px solid rgba(179, 173, 173, 0.778);
+}
+.movieItem:hover {
+  transform: scale(1.02);
+}
+
+.movieItemImage {
+  margin-bottom: 10px;
+}
+
+.movieItemTitle {
+  text-align: center;
+  font-size: 15px;
+  color: black;
+}

@@ -1,0 +1,51 @@
+.goBack {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 20px;
+  outline: #aca7a77f solid 1.1px;
+  border-radius: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.img {
+  margin-bottom: 15px;
+}
+
+.title {
+  margin-bottom: 7px;
+}
+
+.score {
+  margin-bottom: 7px;
+}
+
+.overviewContent {
+  margin-bottom: 7px;
+}
+
+.dopInfoList {
+  display: flex;
+}
+
+.dopInfoLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 20px;
+  outline: #aca7a77f solid 1.1px;
+  border-radius: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  font-weight: 400;
+  margin-bottom: 20px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
