@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/76.8007e838.chunk.css","mappings":"AAAA,sBACE,eACF,CAEA,wCACE,kBACF,CAEA,4BACE,WACF","sources":["components/Cast/Cast.module.css"],"sourcesContent":[".castList {\n  list-style: none;\n}\n\n.castActor:not(:last-child) {\n  margin-bottom: 15px;\n}\n\n.castActorPhoto {\n  width: 200px;\n}\n"],"names":[],"sourceRoot":""}
